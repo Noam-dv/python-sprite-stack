@@ -1,7 +1,5 @@
 import pygame
 from pygame.locals import *
-import sys
-import os
 import math
 
 class StackedSprite:
